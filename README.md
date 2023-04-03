@@ -6,7 +6,7 @@
 #### Features of Weather App include:
 
 
-**Login:**  Users can create an account or log in using their Google or Facebook account.
+- **Login:**  Users can create an account or log in using their Google or Facebook account.
 
 **Save preferences:**  Users can save their preferred locations and customize their dashboard to display the weather information they need.
 
