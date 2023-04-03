@@ -1,9 +1,9 @@
 # wisework-Weather-app
 
 #### Weather App is a web application that provides users with accurate and up-to-date weather information for any location in the world. 
-With this application, users can log in, save their favorite locations, enable weather alerts, and update their profile.
+#### With this application, users can log in, save their favorite locations, enable weather alerts, and update their profile.
 
-Features of Weather App include:
+#### Features of Weather App include:
 
 - Login: Users can create an account or log in using their Google or Facebook account.
 
@@ -15,6 +15,6 @@ Features of Weather App include:
 
 - Current location: Weather App can fetch the user's current location to provide weather updates automatically.
 
-Weather App is built using modern web technologies, including  Node.js and mysql. 
+#### Weather App is built using modern web technologies, including  Node.js and mysql. 
 
 Whether you're planning a trip, monitoring the weather for your business, or simply want to stay informed about the weather in your area, Weather App is the perfect tool to help you stay on top of the weather conditions.
