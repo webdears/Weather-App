@@ -5,15 +5,16 @@
 
 #### Features of Weather App include:
 
-** Login:**  Users can create an account or log in using their Google or Facebook account.
 
-** Save preferences:**  Users can save their preferred locations and customize their dashboard to display the weather information they need.
+**Login:**  Users can create an account or log in using their Google or Facebook account.
 
-** Weather alerts:**  Users can enable email or web notifications for weather alerts for any location.
+**Save preferences:**  Users can save their preferred locations and customize their dashboard to display the weather information they need.
 
-** Profile management:**  Users can update their profile information and manage their account settings.
+**Weather alerts:**  Users can enable email or web notifications for weather alerts for any location.
 
-** Current location:**  Weather App can fetch the user's current location to provide weather updates automatically.
+**Profile management:**  Users can update their profile information and manage their account settings.
+
+**Current location:**  Weather App can fetch the user's current location to provide weather updates automatically.
 
 #### Weather App is built using modern web technologies, including  Node.js and mysql. 
 
