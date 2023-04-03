@@ -1,6 +1,6 @@
 # wisework-Weather-app
 
-Weather App is a web application that provides users with accurate and up-to-date weather information for any location in the world. 
+#### Weather App is a web application that provides users with accurate and up-to-date weather information for any location in the world. 
 With this application, users can log in, save their favorite locations, enable weather alerts, and update their profile.
 
 Features of Weather App include:
