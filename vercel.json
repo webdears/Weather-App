@@ -1,8 +1,8 @@
 {"version1 2,
 "bulids": [
  {
-"src": "./weatherapp/index. js",
-"use" "@vercel/node}
+"src": "./weatherapp/index.js",
+"use":"@vercel/node}
  ],
 "routes" :[
  {
