@@ -1,4 +1,4 @@
-{"version1 2,
+{"version": 2,
 "bulids": [
  {
 "src": "./weatherapp/index.js",
