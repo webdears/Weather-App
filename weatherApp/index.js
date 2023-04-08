@@ -19,10 +19,16 @@ app.use(express.static('public'))
 
 const conn = mysql.createConnection({
 	multipleStatements: true,
-	host: "localhost",
-	user: "root",
-	password: "",
-	database: "weather",
+// 	host: "localhost",
+// 	user: "root",
+// 	password: "",
+// 	database: "weather",
+	
+	
+	host: "blfmpuw893rmz180npmx-mysql.services.clever-cloud.com",
+	user: "uaybaavs3rogjvxu",
+	password: "Sz6VlRvmENZoqhDHkAxX",
+	database: "blfmpuw893rmz180npmx",
 
 });
 
